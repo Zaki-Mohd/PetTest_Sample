@@ -101,7 +101,7 @@ export function HomePage() {
             </div>
             <div className="rounded-lg overflow-hidden shadow-md">
               <img
-                src="https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?auto=format&fit=crop&q=80"
+                src="https://res.cloudinary.com/dihvty4sl/image/upload/v1740161438/Screenshot_2025-02-21_234001_tkabfa.png"
                 alt="Spa Treatment"
                 className="w-full h-48 object-cover"
               />
@@ -120,7 +120,7 @@ export function HomePage() {
             </div>
             <div className="rounded-lg overflow-hidden shadow-md">
               <img
-                src="https://images.unsplash.com/photo-1534361960057-19889db9621e?auto=format&fit=crop&q=80"
+                src="https://res.cloudinary.com/dihvty4sl/image/upload/v1740161333/Screenshot_2025-02-21_233107_pvq2df.png"
                 alt="Vet Services"
                 className="w-full h-48 object-cover"
               />

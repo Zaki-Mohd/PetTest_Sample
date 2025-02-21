@@ -8,17 +8,17 @@ interface GalleryImage {
 
 const galleryImages: GalleryImage[] = [
   {
-    url: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80',
+    url: 'https://res.cloudinary.com/dihvty4sl/image/upload/v1740161274/Screenshot_2025-02-21_233055_yza2jx.png',
     title: 'Professional Grooming',
     description: 'Expert grooming services for all breeds',
   },
   {
-    url: 'https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&q=80',
+    url: 'https://res.cloudinary.com/dihvty4sl/image/upload/v1740161147/Screenshot_2025-02-21_233346_z0um9b.png',
     title: 'Happy Customers',
     description: 'Pets love our care and attention',
   },
   {
-    url: 'https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?auto=format&fit=crop&q=80',
+    url: 'https://res.cloudinary.com/dihvty4sl/image/upload/v1740161333/Screenshot_2025-02-21_233107_pvq2df.png',
     title: 'Spa Treatments',
     description: 'Relaxing spa day for your furry friend',
   },
